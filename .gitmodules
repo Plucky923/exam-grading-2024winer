@@ -1,3 +1,9 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:Plucky923/learning-cxx.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = git@github.com:Plucky923/TinyInfiniTensor.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:Plucky923/learning-lm-rs.git
